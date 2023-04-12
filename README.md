@@ -1,7 +1,7 @@
 # InNews_Summerizer_App
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
-[![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)   
+[![Python 3.11](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
 ![InNews Summerizer App](https://user-images.githubusercontent.com/76549553/231320374-9fd55677-fb71-4a74-8d1e-b852fa6ee08e.JPG)
 
